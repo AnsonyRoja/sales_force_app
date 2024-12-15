@@ -1,0 +1,32 @@
+id auto incrementado
+Name 
+cantidad disponible
+Precio 
+stock minimo
+stock maximo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+
+
+1) crear una aplicacion el cual se sincronizara con la organzacion programado en idempiere, para poder asi obtener los productos de 
+odal al vino
+
+2) generar un cupon de descuentos por ticket, el cual le permitira al cliente adquirir productos con un menor costo
+
+3) debe generar una orden de venta con los productos seleccionados, el cupon tendra id, el cual sera el numero 
+identificador de ese descuento. 
+
+4) terminaremos con un mensaje de exito, solo sera valido por una orden de venta el cupon generado.
+
+5) Se le debe agregar una validacion por si no tiene internet, responderle con un mensaje, debes tener internet para ingresar
+
+
+

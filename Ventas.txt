@@ -1,0 +1,45 @@
+Transaction
+
+Tabla Cliente
+Nombre de cliente
+cedula 
+Telefono
+
+Tabla Productos
+
+Listar la cantidad de Productos
+Producto
+
+cantidad -> Esta cantidad se le disminuira a la cantidad de productos  
+
+
+Ventas
+numero de documento
+fecha
+monto 
+descripcion
+
+
+
+Crear una tabla de proveedor
+
+Cobranzas
+
+Numero referencia
+cobro -> Vendria siendo la orden que se va a cobrar
+Tipo de documento -> Vendrian siendo el identificador de la cantidad de pagos que se han hecho, Ejemplo puede ser de tipo Ventas Mensuales o Ventas Semanales 
+tipo de cobro -> tipo de pago 
+abono-> 
+Fecha de cobro -> dia de la fecha del cobro
+Monto-> cantidad total del saldo 
+cuenta bancaria -> 21054645
+observacion 
+
+
+Tipo de retencion
+Tercero
+factura que se le va aplicar
+Proceso que genere el calculo
+
+
+

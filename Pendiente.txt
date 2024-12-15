@@ -1,0 +1,61 @@
+1) Agregar tasas de conversion a cobros
+
+2) Verificar el listado de precio por cliente, para asi extraer los productos que el cliente parcialmente adquiere, con su 
+listado de precio 
+
+3) en el listado de seleccion de productos solo se le filtrara dependiendo del listado del producto de la cabecer de la orden es decir
+los datos relacionados con el cliente
+
+4) validar si el cliente posee una lista de precio si no se tomaria la predeterminada que esta en las variables globales 
+
+5) el usuario podra asignarle la lista de precio al cliente  
+
+
+6) la lista de precio del cliente se le pasara por  parametros al widget de orden de venta\
+
+
+
+7)  {"@column": "LVE_PayAgreement_ID", "val": '1000001'}, acuerdo de pago verificar que sea en bolivares o en dolares 
+
+8) lo que determina si se hace conversion o no es la lista de precio 
+
+9) ya se creo la relacion, solo falta crear la consulta sql para traer los datos relacionados con la tabla de de precios de lista(ventas)
+
+
+10) Se va crear un filtro para listado de precios de los productos 
+
+12) El cliente no puede modificar libremente la lista de precio sino desde un supervisor a cargo de realizar esa tarea 
+
+13) crear el control de visitas en idempiere para san simon 
+
+
+14) Controll de visita a clientes va contener los conceptos lo cual es el motivo por el cual se hizo la visita
+15) una objecion presentada por el cliente 
+16) creacion de visita
+
+17) la moneda tiene que ir con su simbolo para identificar que tipo de conversion tiene 
+
+18) agregar un nuevo campo en el maestro de clientes para mostrar la lista de precio 
+
+19) agregar un nuevo detalle sobre el precio de lista de la orden 
+
+20) falta agregarle el tipo de moneda a las ordenes de ventas y a lista de precios
+
+21) siempre tendra que verificar que la fecha de la tasa sea del dia de hoy, sino enviara una notificacion diciendole que la tasa no esta al dia
+
+22) bucle infinito al cargar la lista de cobros 
+
+23) agregarle la lista de precio a la creacion de cobro para poder identificar cuando se hizo una conversion y cuando no 
+
+
+24) verificar bug de pantalla roja en la creacion de la orden 
+
+25) el usuario nuevo se crea como en otra instancia del erp 
+
+26) Bug de idempiere no me deja guardar el id de la region 
+
+27) no es necesario agregarle los descuentos ya que solo se tomara en cuenta el valor total de la orden o la factura
+
+y el movimiento de inventario 
+
+
